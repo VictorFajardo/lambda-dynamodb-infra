@@ -59,7 +59,7 @@
     "@aws-sdk/lib-dynamodb": "^3.868.0",
     "aws-xray-sdk-core": "^3.10.3",
     "commitlint": "^19.8.1",
-    "dotenv": "^17.2.1",
+    "dotenv": "^17.2.2",
     "node-fetch": "^3.3.2",
     "zod": "^4.1.5"
   },
